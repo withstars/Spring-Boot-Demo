@@ -1,4 +1,4 @@
-## 快速开始
+## 第二个Demo:整合MyBatis
 1. 新建数据库library,新建表book_info.
 ```
 CREATE TABLE `book_info` (
