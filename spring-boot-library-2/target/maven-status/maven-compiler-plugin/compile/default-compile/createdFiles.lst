@@ -1,6 +1,0 @@
-com\withstars\domain\Book.class
-com\withstars\service\BookService.class
-com\withstars\service\impl\BookServiceImpl.class
-com\withstars\dao\BookDao.class
-com\withstars\web\BookController.class
-com\withstars\Application.class
