@@ -1,0 +1,8 @@
+com\withstars\dao\BookDao$1.class
+com\withstars\domain\Book.class
+com\withstars\service\BookService.class
+com\withstars\dao\BookDao.class
+com\withstars\dao\BookDao$2.class
+com\withstars\dao\BookDao$3.class
+com\withstars\web\BookController.class
+com\withstars\Application.class
