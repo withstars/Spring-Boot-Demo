@@ -1,5 +1,5 @@
 ## 第一个Demo:快速开始
-1. 新建数据库·library·,新建表·book_info·.
+1. 新建数据库library,新建表book_info.
 ```
 CREATE TABLE `book_info` (
   `book_id` bigint(20) NOT NULL,
