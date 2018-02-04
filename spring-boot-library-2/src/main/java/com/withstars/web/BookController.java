@@ -17,8 +17,8 @@ public class BookController {
     private BookServiceImpl bookService;
 
     @RequestMapping(value = "/api/book")
-    public @ResponseBody
-    Object getBookById(HttpServletRequest request){
+    @ResponseBody
+    public Object getBookById(HttpServletRequest request){
         Long id=Long.parseLong(request.getParameter("id"));
         Book book=bookService.getBookById(id);
         return book;
