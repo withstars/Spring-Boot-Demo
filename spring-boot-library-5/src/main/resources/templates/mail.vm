@@ -1,0 +1,6 @@
+<html>
+<body>
+<h3>Hello， ${username}!</h3>
+<p>本邮件由spring boot发送，使用velocity模板引擎。</p>
+</body>
+</html>
