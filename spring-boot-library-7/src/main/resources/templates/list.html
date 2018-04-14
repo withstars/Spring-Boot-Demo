@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title>全部图书</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<h1 >全部图书</h1>
+    <table class="table table-striped">
+    <caption>全部图书</caption>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>图书名</th>
+        <th>作者</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="book:${books}">
+        <td th:text="${book.getBookId()}">图书id</td>
+        <td th:text="${book.getName()}">图书名</td>
+        <td th:text="${book.getAuthor()}">作者</td>
+    </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
