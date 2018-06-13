@@ -7,3 +7,4 @@
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-6">spring-boot-6</a> 使用Thymeleaf模板引擎渲染web视图
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-7">spring-boot-7</a> 使用Redis
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-8">spring-boot-8</a> 集成RabbitMQ
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-9">spring-boot-9</a> 使用@Scheduled创建定时任务
