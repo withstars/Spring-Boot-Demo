@@ -22,7 +22,7 @@ public interface TabRepository extends JpaRepository<Tab, Integer> {
 
     List<Tab> findAll();
 
-    
+
 
 
 

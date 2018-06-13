@@ -8,3 +8,6 @@
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-7">spring-boot-7</a> 使用Redis
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-8">spring-boot-8</a> 集成RabbitMQ
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-9">spring-boot-9</a> 使用@Scheduled创建定时任务
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-10">spring-boot-10</a> 使用Spring-data-jpa
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-11">spring-boot-11</a> 使用@Async实现异步调用
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-12">spring-boot-12</a> 统一异常处理
