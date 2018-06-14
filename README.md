@@ -11,3 +11,6 @@
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-10">spring-boot-10</a> 使用Spring-data-jpa
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-11">spring-boot-11</a> 使用@Async实现异步调用
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-12">spring-boot-12</a> 统一异常处理
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-13">spring-boot-13</a> 事务管理
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-14">spring-boot-14</a> Ecache
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-15">spring-boot-15</a> spring-boot actuator
