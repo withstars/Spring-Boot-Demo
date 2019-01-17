@@ -15,4 +15,4 @@
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-14">spring-boot-14</a> Ecache
 * <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-15">spring-boot-15</a> spring-boot actuator
 
-* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-15">spring-boot-16</a> jwt
+* <a href="https://github.com/withstars/Spring-Boot-Demo/tree/master/spring-boot-16">spring-boot-16</a> jwt
