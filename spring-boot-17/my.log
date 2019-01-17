@@ -1,0 +1,17 @@
+2019-01-17 22:12:46.277  INFO 59497 --- [main] c.w.d.DemoApplication                    : Starting DemoApplication on withstarsdeMacBook-Air.local with PID 59497 (/Users/withstars/work/Spring-Boot-Demo/spring-boot-17/target/classes started by withstars in /Users/withstars/work/Spring-Boot-Demo/spring-boot-17)
+2019-01-17 22:12:46.300 DEBUG 59497 --- [main] c.w.d.DemoApplication                    : Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-01-17 22:12:46.312  INFO 59497 --- [main] c.w.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2019-01-17 22:12:48.508  INFO 59497 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-01-17 22:12:48.613  INFO 59497 --- [main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-01-17 22:12:48.614  INFO 59497 --- [main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-01-17 22:12:48.641  INFO 59497 --- [main] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/withstars/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-01-17 22:12:48.888  INFO 59497 --- [main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-01-17 22:12:48.890  INFO 59497 --- [main] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 2484 ms
+2019-01-17 22:12:49.556  INFO 59497 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-17 22:12:49.996  INFO 59497 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-01-17 22:12:50.002  INFO 59497 --- [main] c.w.d.DemoApplication                    : Started DemoApplication in 25.28 seconds (JVM running for 37.347)
+2019-01-17 22:13:18.404  INFO 59497 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-01-17 22:13:18.416  INFO 59497 --- [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2019-01-17 22:13:18.482  INFO 59497 --- [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Completed initialization in 65 ms
+2019-01-17 22:13:18.557  INFO 59497 --- [http-nio-8080-exec-2] c.w.d.c.HelloController                  : Execute hello method.
+2019-01-17 22:13:49.294  INFO 59497 --- [Thread-4] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
